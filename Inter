@@ -1,0 +1,117 @@
+Based on the job description, here is a simplified explanation of the key responsibilities and requirements for the AIML developer role at Mphasis:
+
+### Key Responsibilities:
+
+1. **Develop AI Capabilities:**
+   - Work on creating both Generative AI and Traditional AI capabilities for enterprise systems, both on-premises and in the cloud.
+
+2. **AI Model Delivery:**
+   - Ensure the delivery of AI models to both on-premises infrastructure and cloud platforms like Google Cloud Platform (GCP-Vertex AI) and Microsoft Azure Machine Learning (Azure ML).
+
+3. **Optimize Scoring Pipelines:**
+   - Collaborate with data scientists to improve the efficiency of the scoring pipelines, which are processes that score or evaluate the performance of AI models.
+
+4. **Automation for Deployment:**
+   - Build tools to automate the deployment of Machine Learning (ML) models and Large Language Models (LLMs) on enterprise platforms.
+
+5. **Model Scoring/Inferencing Automation:**
+   - Create and deploy tools for automating the scoring (evaluation) and inferencing (prediction) of ML models and LLMs.
+
+6. **Data Pipeline Standardization:**
+   - Standardize the deployment of data pipelines and ensure models can be easily used by different lines of business (LOBs).
+
+7. **Collaboration:**
+   - Work with product owners, DevOps teams, data scientists, and support teams to define and implement end-to-end model scoring pipelines.
+
+8. **Daily Standups:**
+   - Participate in daily stand-up meetings to discuss the progress and issues related to platform capability building.
+
+9. **SME Guidance:**
+   - Provide subject matter expertise (SME) to data science teams on software engineering principles, model deployments, and platform capabilities.
+
+10. **End-to-End Delivery:**
+    - Manage the complete delivery process of AI use cases in collaboration with data scientists, data engineers, and LOB technology teams using standardized platform processes and capabilities.
+
+11. **Production Support:**
+    - Partner with production support teams to address and resolve any production issues.
+
+### Key Requirements:
+
+1. **Python Experience:**
+   - Over 5 years of experience in Python, specifically in developing AI and ML models.
+
+2. **AIML Experience:**
+   - At least 3 years of experience in the AI and ML field, particularly in MLOps (Machine Learning Operations).
+
+3. **API Development:**
+   - Over 2 years of experience in developing APIs using Python and FastAPI.
+
+4. **Generative AI Experience:**
+   - It's beneficial to have at least 1 year of experience in working with Generative AI and LLMs, focusing on developing capabilities or DevOps.
+
+5. **API on Cloud Platforms:**
+   - Experience in developing APIs on cloud platforms like GCP or Azure is a plus.
+
+6. **Vector Databases:**
+   - Experience with vector databases and model development is an added advantage.
+
+### Experience:
+
+- The ideal candidate has 5-7 years of overall experience in software development and AI/ML roles.
+
+This simplified explanation covers the main points of the job description and should help you clearly articulate your experience and how it aligns with the role during your interview.
+
+
+Here are some common questions that might be asked during the interview, along with suggested answers based on the job description and typical responsibilities:
+
+### 1. **Can you describe your experience with developing AI and ML models?**
+
+**Answer:**
+"I have over five years of experience in Python, primarily focused on developing AI and ML models. My work has involved creating both traditional and generative AI models. I have delivered these models to on-premises infrastructure as well as cloud platforms like Google Cloud Platform (GCP-Vertex AI) and Microsoft Azure Machine Learning (Azure ML)."
+
+### 2. **How have you collaborated with data scientists to optimize scoring pipelines?**
+
+**Answer:**
+"I regularly collaborate with data scientists to optimize scoring pipelines. This involves reviewing the models they develop, understanding their requirements, and then improving the efficiency and accuracy of the scoring processes. By doing this, we ensure that the models perform well in production and provide accurate predictions."
+
+### 3. **Can you explain a specific instance where you built automation capabilities for deploying ML models?**
+
+**Answer:**
+"In one of my projects, I built an automated pipeline for deploying ML models on our enterprise platform. This involved setting up CI/CD pipelines using tools like Jenkins and integrating them with our on-premises and cloud environments. The automation reduced deployment time significantly and minimized human errors."
+
+### 4. **What experience do you have with developing APIs using Python/FastAPI?**
+
+**Answer:**
+"I have over two years of experience in developing APIs using Python and FastAPI. I have created RESTful APIs that facilitate communication between different services and applications. These APIs are used for various purposes, including model inferencing, data retrieval, and triggering ML workflows."
+
+### 5. **Have you worked with Generative AI or LLMs? If so, can you provide an example?**
+
+**Answer:**
+"Yes, I have worked with Generative AI and Large Language Models (LLMs). For instance, I developed a text generation application using GPT-3, which was integrated into our customer service platform. This model helped automate responses to common customer queries, improving response times and customer satisfaction."
+
+### 6. **How do you ensure the standardization of data pipeline deployments?**
+
+**Answer:**
+"I ensure standardization by using well-defined templates and frameworks for data pipeline deployments. We follow best practices and industry standards, use version control systems, and document our processes thoroughly. This makes it easier for different teams to deploy and manage data pipelines consistently."
+
+### 7. **Can you describe a challenging production issue you encountered and how you resolved it?**
+
+**Answer:**
+"Once, we faced a significant issue where our model's predictions were suddenly inaccurate. After investigating, we discovered a data drift problem where the incoming data distribution had changed. To resolve this, we implemented a monitoring system to detect data drifts in real-time and retrained our models with updated data to restore accuracy."
+
+### 8. **How do you provide guidance to data science teams on software engineering principles?**
+
+**Answer:**
+"I provide guidance through regular knowledge-sharing sessions, code reviews, and collaborative workshops. I emphasize the importance of writing clean, maintainable code, using version control, and following best practices in software engineering. This helps data scientists integrate their models more effectively into production environments."
+
+### 9. **What tools and technologies do you use for CI/CD and model deployment?**
+
+**Answer:**
+"I use tools like Jenkins, Docker, Kubernetes, and Terraform for CI/CD and model deployment. These tools help automate the entire process, from building and testing the models to deploying them in production environments. Using these technologies ensures a seamless and reliable deployment pipeline."
+
+### 10. **How do you handle collaboration with multiple teams (product owners, DevOps, data scientists, etc.)?**
+
+**Answer:**
+"I prioritize clear communication and set up regular meetings with all stakeholders. I use project management tools like JIRA to track progress and ensure everyone is aligned with the project goals. By fostering a collaborative environment and being proactive in addressing any issues, I ensure smooth collaboration across teams."
+
+These questions and answers should help you prepare for your interview by highlighting your relevant experience and expertise in line with the job description.
