@@ -99,8 +99,11 @@ These answers should help you prepare for the types of questions you might face 
 
 This description should give you a clear structure to explain your experience and expertise during an interview, highlighting both the technical and collaborative aspects of the role.
 
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2M4MDU5YTQtZjc1Ni00ZGFlLTk1MjEtOWI2MDYzODE5OGE4%40thread.v2/0?context=%7b%22Tid%22%3a%225400f779-75bb-4573-a499-4c50de99f6ae%22%2c%22Oid%22%3a%22b067a8df-ff4c-49d2-a15b-2f1e5feb0971%22%7d
 
+
+
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2M4MDU5YTQtZjc1Ni00ZGFlLTk1MjEtOWI2MDYzODE5OGE4%40thread.v2/0?context=%7b%22Tid%22%3a%225400f779-75bb-4573-a499-4c50de99f6ae%22%2c%22Oid%22%3a%22b067a8df-ff4c-49d2-a15b-2f1e5feb0971%22%7d
 
 
 
